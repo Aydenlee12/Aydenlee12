@@ -9,12 +9,13 @@ I’m excited about how these concepts will enhance my understanding of coding a
 I believe that these connections are essential for growth and innovation. Additionally, I'm eager to secure an internship that allows me to apply my skills in real-world scenarios, gain practical experience, and contribute to exciting projects in software development.I’m passionate about working with others who share similar interests and are enthusiastic about pushing the boundaries of technology.
 
 - 📫 How to reach me: 
-- Via Number: 651-470-0753
-- Email: ayden00lee@gmail.com
+  Via Number: 651-470-0753
+  Email: ayden00lee@gmail.com
 
 - 😄 Pronouns:
-- He/Him
-- ⚡ Fun fact: ...
+  He/Him
+- ⚡ Fun fact:
+  I love the outdoors and enjoy activities like hiking, fishing, and sightseeing. Exploring nature not only helps me relax but also inspires my creativity.
 
 <!---
 Aydenlee12/Aydenlee12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
